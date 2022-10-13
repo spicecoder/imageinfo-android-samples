@@ -1,2 +1,4 @@
 for python algol:
 https://betterprogramming.pub/hide-data-within-an-image-507f571aab89
+
+rel blog:https://yggr.medium.com/how-to-encrypt-images-in-android-ca3ba812363a
