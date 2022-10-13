@@ -13,3 +13,5 @@ https://github.com/pmmistry/Node-RED-Series/tree/master/Labs
 https://nodered.org/docs/creating-nodes/node-js
 
 https://www.twitch.tv/videos/1620641914
+
+https://stevesnoderedguide.com/node-red-dashboard
