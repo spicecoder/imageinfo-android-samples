@@ -10,3 +10,4 @@ https://www.youtube.com/watch?v=qOHZgFy-2ys
 
 https://github.com/pmmistry/Node-RED-Series/tree/master/Labs
 
+https://nodered.org/docs/creating-nodes/node-js
