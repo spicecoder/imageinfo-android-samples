@@ -1,0 +1,2 @@
+for python algol:
+https://betterprogramming.pub/hide-data-within-an-image-507f571aab89
