@@ -15,3 +15,7 @@ https://nodered.org/docs/creating-nodes/node-js
 https://www.twitch.tv/videos/1620641914
 
 https://stevesnoderedguide.com/node-red-dashboard
+
+https://nodered-dashboards.gitbook.io/node-red-dashboards/workshop/basic-web-page
+
+https://github.com/slahiri/node-red-microservice/blob/main/index.js
