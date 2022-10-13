@@ -21,3 +21,6 @@ https://nodered-dashboards.gitbook.io/node-red-dashboards/workshop/basic-web-pag
 https://github.com/slahiri/node-red-microservice/blob/main/index.js
 
 https://medium.com/engineered-publicis-sapient/low-code-microservices-with-node-red-cef1a5b4d852
+
+custom:
+https://medium.com/@darshan_dharmendra.chawda.kt/how-to-create-a-custom-node-in-the-node-red-61d88ebc2ffb
