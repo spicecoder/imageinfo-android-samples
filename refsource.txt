@@ -27,3 +27,5 @@ https://medium.com/@darshan_dharmendra.chawda.kt/how-to-create-a-custom-node-in-
 
 IBM Badge :
 https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CB0101EN+v1/course/
+Rapid prototyping :
+https://www.youtube.com/watch?v=Yxblxfnu8do
